@@ -1,0 +1,17 @@
+node_modules/
+.pnp
+.pnp.js
+.next/
+out/
+build/
+dist/
+.env
+.env*.local
+npm-debug.log*
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+*.tsbuildinfo
+next-env.d.ts
